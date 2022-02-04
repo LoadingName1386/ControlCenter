@@ -46,3 +46,5 @@ To solve this: right click rainmeter icon on the system tray
 => Diable all the tick and then press close on Rainmeter
 
 Pls remember to press close when you are done or the settings will not be save
+
+AND MORE BUGS TO BE DISCOVERED 
