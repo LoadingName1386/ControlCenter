@@ -1,5 +1,7 @@
 # ControlCenter
-A Mac like Control Center for Windows
+A Mac like Control Center for Windows. 
+
+Inspired by https://www.reddit.com/r/Rainmeter/comments/hwgq4m/macos_big_sur_control_center_suite_link_download/
 
 <img width="1248" alt="image" src="https://user-images.githubusercontent.com/98937364/152519608-0c019c63-4a22-4c61-8617-ade401311bb1.png">
 
